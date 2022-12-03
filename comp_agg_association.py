@@ -24,7 +24,7 @@ ling = B(5, 9)
 print(ling.addAllNums(ting.b, ting.c))
 
 
-#Composition
+#Composition ппппваыыицитп
 class Salary:
     def __init__(self, pay):
         self.pay = pay
